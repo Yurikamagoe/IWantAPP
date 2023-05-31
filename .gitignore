@@ -99,10 +99,20 @@ StyleCopReport.xml
 *.scc
 *.suo
 *.user
-_ReSharper.*
-bin
-obj
-packages
+_ReSharper.*/
+*.sdf
+bin/
+obj/
+Debug/
+Release/
+*.opensdf
+*.tlog
+*.log
+TestResult.xml
+*.VisualState.xml
+Version.cs
+Version.h
+Version.cpp
 
 # Chutzpah Test files
 _Chutzpah*
