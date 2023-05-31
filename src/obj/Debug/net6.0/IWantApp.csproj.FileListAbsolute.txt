@@ -1,7 +1,0 @@
-C:\CURSOS\IWantAPP\IWantAPP\src\obj\Debug\net6.0\IWantApp.csproj.AssemblyReference.cache
-C:\CURSOS\IWantAPP\IWantAPP\src\obj\Debug\net6.0\IWantApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\CURSOS\IWantAPP\IWantAPP\src\obj\Debug\net6.0\IWantApp.AssemblyInfoInputs.cache
-C:\CURSOS\IWantAPP\IWantAPP\src\obj\Debug\net6.0\IWantApp.AssemblyInfo.cs
-C:\CURSOS\IWantAPP\IWantAPP\src\obj\Debug\net6.0\IWantApp.csproj.CoreCompileInputs.cache
-C:\CURSOS\IWantAPP\IWantAPP\src\obj\Debug\net6.0\IWantApp.MvcApplicationPartsAssemblyInfo.cs
-C:\CURSOS\IWantAPP\IWantAPP\src\obj\Debug\net6.0\IWantApp.MvcApplicationPartsAssemblyInfo.cache
